@@ -1,0 +1,27 @@
+Topics
+
+
+From a research article learn to identify and describe the:
+- Questions
+	| Hypothesis
+		| Objectives
+- Methods
+
+How to read a paper:
+
+
+Reproducibility:
+-git and GitHub
+
+Clone documents to your computer:
+git clone https://github.com/jsolorzano734/journalClubPPSO.git
+
+git status
+git diff
+git add .
+git commit -m "commit name"
+git push -u origin master
+
+
+
+
