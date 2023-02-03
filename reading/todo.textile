@@ -9,7 +9,6 @@ From a research article learn to identify and describe the:
 
 How to read a paper:
 
-
 Reproducibility:
 -git and GitHub
 
@@ -20,7 +19,19 @@ git status
 git diff
 git add .
 git commit -m "commit name"
-git push -u origin master
+git push
+
+paper example with a Github repo for data:  https://apsjournals-apsnet-org.ezp2.lib.umn.edu/doi/10.1094/PHP-03-22-0021-
+
+
+Future prresentations
+
+Feb - Malvick lab Fed 3rd, 12:30
+March - Blanchette lab March 3rd, 12:30
+April - McCaghey April TBD
+May - Khokhani May TBD
+June - postdocs
+
 
 
 
