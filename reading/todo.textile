@@ -21,7 +21,7 @@ git add .
 git commit -m "commit name"
 git push
 
-paper example with a Github repo for data:  https://apsjournals-apsnet-org.ezp2.lib.umn.edu/doi/10.1094/PHP-03-22-0021-
+paper example with a Github repo for data:  https://doi-org.ezp2.lib.umn.edu/10.1094/PHP-03-22-0021-RS
 
 
 Future prresentations
