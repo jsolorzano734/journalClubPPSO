@@ -7,13 +7,15 @@ From a research article learn to identify and describe the:
 		| Objectives
 - Methods
 
-How to read a paper:
+How to read a paper:	
 
 Reproducibility:
+#https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022
 -git and GitHub
 
 Clone documents to your computer:
-git clone https://github.com/jsolorzano734/journalClubPPSO.git
+cd 
+##git clone https://github.com/jsolorzano734/journalClubPPSO.git
 
 git status
 git diff
@@ -31,6 +33,10 @@ March - Blanchette lab March 3rd, 12:30
 April - McCaghey April TBD
 May - Khokhani May TBD
 June - postdocs
+
+
+
+
 
 
 
