@@ -13,7 +13,7 @@ header-includes:
     - \geometry{a4paper}
 ---  
 
-# Future presentations
+# Spring 2023 presentations
 
  - Feb - Malvick lab Fed 3rd, 12:30 pm
  - March - Blanchette lab March 3rd, 12:30 pm
@@ -23,27 +23,28 @@ header-includes:
 
 ---  
 
-** February 3rd 2022 **  
+**February 3rd 2022**  
 From a research article learn to identify and describe the:  
  - Questions  
  - Hypothesis  
  - Objectives  
  - Describe the connection between the introduction and discussion section  
-
+  
 Reproducibility:   
 `git` and `GitHub`  
-
+   
 Clone documents to your computer:  
-cd //is used to call a directory//  
-git clone //clone a directory add the HTTPS url after git clone//  
-
+`cd` //is used to call a directory//  
+`git clone` //clone a directory add the HTTPS url after git clone//  
+  
 //after you make changes to the repository use the following commands:  
-git status
-git diff
-git add .
-git commit -m "commit name"
-git push
+`git status`    
+`git diff`   
+`git add .` //to add the changes  
+`git commit -m "commit name"`    
+`git push`  
 
 ---  
 # Upcoming:  
- - March - Blanchette lab March 3rd, 12:30 pm
+ - March - Blanchette lab March 3rd, 12:30 pm  
+  
