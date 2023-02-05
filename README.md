@@ -1,4 +1,4 @@
-# Journal Club Repository of the Plant Pathology Student Organization
+# Journal Club Repository of the Plant Pathology Student Organization and Postdocs
 
 > Files for the PPSO journal club 
 
