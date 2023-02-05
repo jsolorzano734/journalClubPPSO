@@ -47,5 +47,5 @@ After you make changes to the repository use the following commands:
 
 ---  
 # Upcoming:  
- - March - Blanchette lab March 3rd, 12:30 pm  
-  
+ > March - Blanchette lab March 3rd, 12:30 pm  
+ - Paper to read: [insert title here](link)
