@@ -15,7 +15,7 @@ header-includes:
 
 # Spring 2023 presentations
 
- - Feb - Malvick lab Fed 3rd, 12:30 pm `none`
+ - Feb - Malvick lab Fed 3rd, 12:30 pm `done`
  - March - Blanchette lab March 3rd, 12:30 pm `upcoming`
  - April - McCaghey April TBD
  - May - Khokhani May TBD
@@ -23,13 +23,14 @@ header-includes:
 
 ---  
 
-**NOTES: February 3rd 2022**  
+**Topics to cover on each presentation:**  
 From a research article learn to identify and describe the:  
  - Questions  
  - Hypothesis  
  - Objectives  
  - Connection between the introduction and discussion section  
-  
+
+**NOTES: February 3rd 2022**  
 Reproducibility:   
 `git` and `GitHub`  
    
