@@ -1,12 +1,12 @@
-# Journal Club Repository of the Plant Pathology Student Organization and Postdocs
+# Journal Club Repository of the Plant Pathology Student Organization and Postdocs  
 
 > Files of interest.  
 
-- [reading](https://github.com/jsolorzano734/journalClubPPSO/tree/main/reading) This folder contains a `to do` list of general activities and 2 files that provide guidance on how to read a paper.  
+- [reading](https://github.com/jsolorzano734/journalClubPPSO/tree/main/reading) This folder contains the papers to read for meetings and [file 1](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/How%20to%20read%20a%20paper%20worksheet%20SouthPF%2002092015.docx) and [file 2](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/How%20to%20read%20a%20paper.pdf)) that provide guidance on how to read a paper.  
 
 ### Upcoming meetings  
 ---   
-Schedule for upcoming journal meetings.  
+Schedule.    
 
 | Date | Lab | Presenter | Date | Reading |  
 | :----: | :---: | :---: | :---: | :---: |  
@@ -25,4 +25,4 @@ From a research article learn to identify and describe the:
  - Objectives  
  - Connection between the introduction and discussion section  
 
----
+---  
