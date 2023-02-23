@@ -2,13 +2,13 @@
 
 > Files of interest.  
 
-- [reading](https://github.com/jsolorzano734/journalClubPPSO/tree/main/reading) This folder contains the reading for each meeting and [file 1](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/How%20to%20read%20a%20paper%20worksheet%20SouthPF%2002092015.docx) and [file 2](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/How%20to%20read%20a%20paper.pdf) to provide guidance on how to read a paper.  
+- [reading](https://github.com/jsolorzano734/journalClubPPSO/tree/main/reading) This folder contains the readings for each meeting and [file 1](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/How%20to%20read%20a%20paper%20worksheet%20SouthPF%2002092015.docx) and [file 2](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/How%20to%20read%20a%20paper.pdf) to provide guidance on how to read a paper.  
 
 ### Upcoming meetings  
 ---   
 Schedule.    
 
-| Date | Lab | Presenter | Date | Reading |  
+| Date | Lab | Presenter | Time | Reading |  
 | :----: | :---: | :---: | :---: | :---: |  
 | February 3rd | - Malvick Lab | José E. Solórzano | 12:30 pm | `GitHub` & `git` |    
 | March 3rd | - Blanchette lab | Andrew Mann | 12:30 pm | [Paper](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/Karst%20et%20al.%202023.pdf) |   
