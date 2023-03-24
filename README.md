@@ -12,7 +12,7 @@ Schedule.
 | :----: | :---: | :---: | :---: | :---: |  
 | February 3rd | - Malvick Lab | José E. Solórzano | 12:30 pm | `GitHub` & `git` |    
 | March 3rd | - Blanchette lab | Andrew Mann | 12:30 pm | [Paper](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/Karst%20et%20al.%202023.pdf) |   
-| April | - McCaghey Lab | TBD | -- | -- |  
+| April | - McCaghey Lab | April 6th | 12:30 pm | -- |  
 | May | - Khokhani Lab | TBD | -- | -- |   
 | June | Postdocs | TBD | -- | -- |   
 
