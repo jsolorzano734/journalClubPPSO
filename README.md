@@ -6,7 +6,7 @@
 
 ### Upcoming meetings  
 ---   
-Schedule.    
+Spring and Summer Schedule | 2023.      
 
 | Date | Lab | Presenter | Time | Reading |  
 | :----: | :---: | :---: | :---: | :---: |  
