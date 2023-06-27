@@ -14,11 +14,11 @@ Spring and Summer Schedule | 2023.
 | March 3rd | - Blanchette lab | Andrew Mann | 12:30 pm | [Paper](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/Karst%20et%20al.%202023.pdf) |   
 | April 6th | - McCaghey Lab | Hsuan-Fu & Alisha | 12:30 pm | [Paper](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/April_6_2023_McCagHey_Lab/Webster_et_al_2022.pdf) | 
 | May 11th | - Khokhani Lab | Pranaya & Molly | 12:30 pm | [Paper](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/Dierks%20et%20al.%202022.pdf) |   
-| June | Postdocs | Eric & Becky | TBD | [Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-phyto-021021-042636) |   
+| June 27th | Postdocs | Eric & Becky | 12:30 pm | [Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-phyto-021021-042636) |   
 
 ---  
 
-**Topics to cover on each presentation:**  
+**Topics to cover in each presentation:**  
 From a research article learn to identify and describe the:  
  - Questions  
  - Hypothesis  
