@@ -2,7 +2,7 @@
 
 > Files of interest.  
 
-- [reading](https://github.com/jsolorzano734/journalClubPPSO/tree/main/reading) This folder contains the readings for each meeting and [file 1](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/How%20to%20read%20a%20paper%20worksheet%20SouthPF%2002092015.docx) and [file 2](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/How%20to%20read%20a%20paper.pdf) to provide guidance on how to read a paper.  
+- The [reading](https://github.com/jsolorzano734/journalClubPPSO/tree/main/reading) folder contains the papers for each meeting. [File 1](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/How%20to%20read%20a%20paper%20worksheet%20SouthPF%2002092015.docx) and [File 2](https://github.com/jsolorzano734/journalClubPPSO/blob/main/reading/How%20to%20read%20a%20paper.pdf) provide guidance on how to read the asigned paper(s).  
 
 ### Upcoming meetings  
 ---   
